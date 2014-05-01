@@ -136,13 +136,13 @@ I used integers with all of the above, but they can use floats or ratios just fi
 
 ### EXERCISE: Basic arithmetic
 
-Take your height in feet and inches and convert it to inches using arithmetic in Clojure.
+Take your height in centimeters and convert it to meters using arithmetic in Clojure.
 
-Then convert that to centimeters. There are 2.54 centimeters in an inch.
+Then convert that to inchs. There are 2.54 centimeters in an inch.
 
 Lastly, ask two people near you for their height in centimeters. Find the average of your heights.
 
-Bonus: Convert that average back to feet and inches. `(mod x y)` will give you the remainder when dividing two numbers.
+Bonus: Convert that average to feet and inches. `(mod x y)` will give you the remainder when dividing two numbers.
 
 ### Strings and characters
 
