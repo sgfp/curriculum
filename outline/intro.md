@@ -138,7 +138,7 @@ I used integers with all of the above, but they can use floats or ratios just fi
 
 Take your height in centimeters and convert it to meters using arithmetic in Clojure.
 
-Then convert that to inchs. There are 2.54 centimeters in an inch.
+Then convert that to inches. There are 2.54 centimeters in an inch.
 
 Lastly, ask two people near you for their height in centimeters. Find the average of your heights.
 
