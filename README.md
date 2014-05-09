@@ -8,6 +8,7 @@ Outline
 * [Data Structures](outline/data_structures.md)
 * [Functions](outline/functions.md)
 * [Flow Control](outline/flow_control.md)
+* [Functions](outline/functions2.md)
 * [Making Your First Program](outline/first-program.md)
 * [Making Your Own Web Application](outline/app.md)
 * [Putting Your Application Online](outline/deploy.md)
