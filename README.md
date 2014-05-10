@@ -1,3 +1,5 @@
+* I got it running at [OpenShift](http://globalgrowth-runchee.rhcloud.com/) as of 2014/05/10 at Brisbane, Australia. Heroku was not working then.
+
 ClojureBridge Curriculum
 ========================
 
