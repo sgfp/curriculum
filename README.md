@@ -11,7 +11,7 @@ Outline
 * [Functions part 2](outline/functions2.md)
 * [Making Your First Program](outline/first-program.md)
 * [Making Your Own Web Application](outline/app.md)
-* [Putting Your Application Online](outline/deploy.md)
+* Putting Your Application Online [with Heroku](outline/deploy_heroku.md) or [with OpenShift](outline/deploy_openshift.md)
 
 
 License

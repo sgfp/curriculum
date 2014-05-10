@@ -85,6 +85,8 @@ Name the launcher LightTable. Type the path to the command `/usr/local/bin/Light
 
 ## Getting setup with Heroku
 
+_If you plan to deploy your application with [OpenShift](deploy_openshift.md) rather than Heroku, you can skip this section. You will still need Git on your machine. Ubuntu instructions for installing Git and OpenShift's RHC client tools are [available here](https://www.openshift.com/developers/rhc-client-tools-install#ubuntu)._
+
 Heroku is the tool we will use in order to put your application online where others can see it.
 
 First, we need to create an account. Go to [Heroku](http://heroku.com) and click the "Sign up" link.

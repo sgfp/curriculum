@@ -1,9 +1,9 @@
-Putting Your Application Online
-===============================
+Putting Your Application Online with Heroku
+===========================================
 
 What is deployment?
 -----------------
-Your app is live. Great! But right now, it runs on your local machine only. If you want others to see and use it, you'll need to deploy it. The quickest way to deploy your app is to push it to Heroku using Git.
+Your app is live. Great! But right now, it runs on your local machine only. If you want others to see and use it, you'll need to deploy it. A fast way to deploy your app is to push it to Heroku using Git.
 
 Deploying to Heroku
 -----------------
